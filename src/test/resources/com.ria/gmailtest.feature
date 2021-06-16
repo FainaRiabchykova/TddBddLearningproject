@@ -10,10 +10,10 @@ Scenario Outline:
   Examples:
     |email                |password|
     |qariatest@gmail.com  |Aaaa!111|
-    |qariatest2@gmail.com |Aaaa@222|
-    |qariatest3@gmail.com |Aaaa#333|
-    |qariatest4@gmail.com |Aaaa$444|
-    |qariatest5@gmail.com |Aaaa%555|
+#    |qariatest2@gmail.com |Aaaa@222|
+#    |qariatest3@gmail.com |Aaaa#333|
+#    |qariatest4@gmail.com |Aaaa$444|
+#    |qariatest5@gmail.com |Aaaa%555|
 
 
 
